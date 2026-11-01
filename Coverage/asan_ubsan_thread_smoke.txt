@@ -1,0 +1,1 @@
+PASS: parallel search scanned 128 records and found 7 expected matches.

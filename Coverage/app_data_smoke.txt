@@ -1,0 +1,1 @@
+PASS: In a temporary working directory containing the supplied books.txt, member.txt, transaction.txt, and library.log, the application loaded its data, accepted the demo administrator login, displayed the menu, and exited normally when option 0 was selected.
